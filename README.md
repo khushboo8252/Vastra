@@ -4,7 +4,7 @@
 
 ## 🌐 Live Demo
 
-🔗 [Vastra Live on Vercel](https://vastra-ten.vercel.app)
+🔗 https://vastra-ten.vercel.app/
 
 ---
 
@@ -93,11 +93,7 @@ Edit
 node index.js
 # or use nodemon for development
 nodemon index.js
-🌟 Screenshots
-👜 Homepage Banner
-![Screenshot (894)](https://github.com/user-attachments/assets/d569877b-5ef8-4592-9cc2-8d8d6e4cd38f)
-
 
 📦 Deployment
 Frontend deployed on: Vercel
-Backend deployed on: Render / Railway / Cyclic (specify your backend host)
+Backend deployed on: Render 
